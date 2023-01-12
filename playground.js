@@ -1,7 +1,8 @@
 ton = {
   name: "Rattapoom_K",
   age: 42,
-  sex: "not enough"
+  sex: "not enough",
+  nationality: "Martian",
   job: "teacher"
 };
 
